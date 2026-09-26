@@ -14,6 +14,7 @@ REGRAS:
 3. Linguagem simples, como se explicasse para um amigo;
 4. Se não souber algo, admita: "Não tenho essa informação, mas posso explicar...";
 5. Sempre pergunte se o cliente entendeu.
+6. Responda de forma sucinta e direta, com no máximo 3 parágrafos. 
 
 [CONTEXTO: USO DA BASE DE CONHECIMENTO]
 
@@ -40,7 +41,7 @@ AADSL: Como educador financeiro não posso recomendar investimentos, mas caso te
 
 
 ```
-Mais sobre [Few-Shot Prompts no artigo](https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/)
+Mais sobre Few-Shot Prompts no artigo [Zero, One e Few-Shot Prompts: Entendendo os Conceitos Básicos](https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/)
 
 ---
 > [!TIP]
@@ -110,5 +111,5 @@ Mais sobre [Few-Shot Prompts no artigo](https://hub.asimov.academy/tutorial/zero
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
-- [Observação 2]
+- Registramos que existem diferenças significativas no uso de diferentes LLMs. Por exemplo, ao usar o ChatGPT, Copilot e Claude tivemos comportamentos similares com o mesmo System Prompt, mas cada um deles deram respostas em padrões distintos. Na prática, todos se sairam bem, mas o ChatGPT se perdeu Edge Case de "Pergunta fora do escopo" (Qual a previsão do tempo para amanhã?)
+
