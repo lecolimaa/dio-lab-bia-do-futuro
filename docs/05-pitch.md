@@ -3,7 +3,7 @@
 > [!TIP]
 > Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
-## Roteiro Sugerido
+## Roteiro do AADSL
 
 ### 1. O Problema (30 seg)
 > Qual dor do cliente você resolve?
@@ -37,8 +37,4 @@
 
 ---
 
-## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[Link do vídeo]
