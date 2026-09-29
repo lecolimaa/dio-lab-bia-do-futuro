@@ -6,24 +6,15 @@
 ## Roteiro do AADSL
 
 ### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+62% dos brasileiros não sabem o que é reserva de emergência. Muita gente quer aprender sobre finanças, mas não sabe por onde começar.
 
-[Sua descrição aqui]
 
 ### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+O AADSL é um educador financeiro que ensina de forma personalizada. Ele usa seus próprios dados para dar exemplos práticos. Não recomenda investimentos, só educa. 
 
-[Sua descrição aqui]
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
-
-[Descreva o que será mostrado]
-
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
-
-[Sua descrição aqui]
+### 3. Diferencial e Impacto (30 seg)
+"Diferente dos chatbots genéricos, o AADSL usa seus dados como exemplo. Isso torna o aprendizado concreto, rodando 100% localmente, sem custo e sem enviar seus dados para ninguém."
 
 ---
 
